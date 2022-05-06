@@ -1,0 +1,10 @@
+print-matrix
+right
+down
+right
+revert
+print-matrix
+up
+down
+revert
+print-matrix
